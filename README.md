@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my final project<br>🌱 I’m currently learning about software developing in different environments and frameworks<br>
+🔭 I’m currently working on a Azure Dev Ops Extention for a company<br>🌱 Im also Working on a personal project using Laravel and PHP<br>
 
 
 ## 🌐 Socials:
